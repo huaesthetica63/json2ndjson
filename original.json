@@ -1,5 +1,5 @@
-[{
-  "user": {
+[
+  {
     "name": "alex",
     "phone": "+7938",
     "address": "down street 69",
@@ -9,7 +9,7 @@
        "age":  3.7
     }
   },
-  "user": {
+  {
     "name": "olga",
     "phone": "+3333",
     "address": "wall street 47",
@@ -19,7 +19,7 @@
        "age":  20
     }
   },
-  "user": {
+  {
     "name": "tayler",
     "phone": "+2777",
     "address": "paper street",
@@ -29,5 +29,4 @@
        "age":  0.5
     }
   }
-}
 ]
