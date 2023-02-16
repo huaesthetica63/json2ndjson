@@ -1,0 +1,33 @@
+[{
+  "user": {
+    "name": "alex",
+    "phone": "+7938",
+    "address": "down street 69",
+    "pet": {
+       "type": "dog",
+       "name": "travis",
+       "age":  3.7
+    }
+  },
+  "user": {
+    "name": "olga",
+    "phone": "+3333",
+    "address": "wall street 47",
+    "pet": {
+       "type": "cat",
+       "name": "belka",
+       "age":  20
+    }
+  },
+  "user": {
+    "name": "tayler",
+    "phone": "+2777",
+    "address": "paper street",
+    "pet": {
+       "type": "rat",
+       "name": "jack",
+       "age":  0.5
+    }
+  }
+}
+]
